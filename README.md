@@ -11,7 +11,7 @@
 <br/>
 
 [![BSERC Intern](https://img.shields.io/badge/3×_Intern-BSERC_Def--Space_&_GenAI-7C3AED?style=flat-square)](https://www.linkedin.com/in/yash-pardeshi-84898b37a/)
-[![SIH 2026](https://img.shields.io/badge/SIH_2026-Top_100_Qualifier_(SIH26054)-D97706?style=flat-square)](https://github.com/varun3264-pardeshi/aerotwin-gcs)
+[![SIH 2026](https://img.shields.io/badge/SIH_2026-Top_100_Internal_Qualifier-D97706?style=flat-square)](https://www.linkedin.com/in/yash-pardeshi-84898b37a/)
 [![ISRO BAH 2026](https://img.shields.io/badge/ISRO_BAH_2026-2026H2S06BAH--P36696-10B981?style=flat-square)](https://github.com/varun3264-pardeshi/project-iSRO-)
 [![Certifications](https://img.shields.io/badge/Verified_Certifications-15+-2563EB?style=flat-square)](#-verified-licenses--certifications-15)
 
@@ -24,9 +24,9 @@
 - 🎓 **B.Tech in Computer Science & Engineering ('29)** at **Medicaps University, Indore** (`80.2%`)
 - 🛰️ **3× Space, Defence & Generative AI Intern @ BSERC** (*Bharat Space Education Research Centre*) — Awarded **Letter of Recommendation** for aerospace simulation & AI systems engineering
 - 🏆 **National Hackathons:**
-  - **Smart India Hackathon (SIH 2026)** — *Top 100 Internal Qualifier (out of 300+ teams)* · Problem `SIH26054` (DRDO Tapas BH-201 MALE UAV PINN Digital Twin)
+  - **Smart India Hackathon (SIH 2026)** — *Top 100 Internal Qualifier (out of 300+ teams)* at Medicaps University
   - **ISRO Bharatiya Antariksh Hackathon 2026** — *National Participant* (`ID: 2026H2S06BAH-P36696`) · Thermal/Infrared Satellite Imagery Super-Resolution & Colorization
-- 🛠️ **Builder Mindset:** Shipped **20+ end-to-end applications** across client-side offline web tools, 60 FPS 3D flight simulators, physics-informed neural network (PINN) digital twins, and computer vision pipelines.
+- 🛠️ **Builder Mindset:** Shipped **20+ end-to-end applications** across client-side offline web tools, 60 FPS 3D flight simulators, and computer vision pipelines.
 
 ---
 
@@ -81,23 +81,19 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛩️ 4. AeroTwin GCS & Defence / Healthcare AI</h3>
+      <h3>🛡️ 4. Defence Surveillance & Healthcare Risk AI</h3>
       <ul>
         <li>
-          <b><a href="https://github.com/varun3264-pardeshi/aerotwin-gcs">AeroTwin GCS (SIH26054 — DRDO Tapas BH-201 MALE UAV)</a>:</b>
-          Sovereign real-time <b>Physics-Informed Neural Network (PINN) Digital Twin</b> & 60 FPS Ground Control Station for DRDO Tapas BH-201 MALE UAV Aero-Piston Engines (Rotax 914 F). Qualified in the <b>Top 100 teams</b> at SIH 2026.
-        </li>
-        <li>
           <b><a href="https://github.com/varun3264-pardeshi/AI-Based-Military-Intelligence-and-Threat-Analysis">AI-Based Military Intelligence & Threat Analysis</a>:</b>
-          Automated defence surveillance interpretation, anomaly detection, and tactical threat-assessment pipeline (BSERC Def-Space Summer Internship).
+          Automated defence surveillance interpretation, anomaly detection, and tactical threat-assessment pipeline developed during the BSERC Def-Space Summer Internship.
         </li>
         <li>
-          <b><a href="https://github.com/varun3264-pardeshi/Health-Care-360-Smartbrige-project">HealthCare 360 — Clinical Risk Analytics</a>:</b>
+          <b><a href="https://github.com/varun3264-pardeshi/Health-Care-360-Smartbrige-project">HealthCare 360 — Clinical & Chronic Disease Risk Analytics</a>:</b>
           Interactive Python & Tableau dashboard analyzing chronic diseases, BMI, blood pressure, cholesterol, and demographic risk factors.
         </li>
       </ul>
       <p>
-        <a href="https://github.com/varun3264-pardeshi/aerotwin-gcs"><img src="https://img.shields.io/badge/AeroTwin_GCS-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/varun3264-pardeshi/AI-Based-Military-Intelligence-and-Threat-Analysis"><img src="https://img.shields.io/badge/Military_AI_Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
         <a href="https://github.com/varun3264-pardeshi/Health-Care-360-Smartbrige-project"><img src="https://img.shields.io/badge/HealthCare_360-D97706?style=for-the-badge&logo=tableau&logoColor=white" /></a>
       </p>
     </td>
@@ -131,7 +127,7 @@
 | Domain | Core Technologies & Concepts |
 | :--- | :--- |
 | **Languages & Core CS** | `Python`, `JavaScript (ES6+)`, `SQL`, `HTML5`, `CSS3`, `MATLAB`, `Data Structures & Algorithms (DSA)`, `OOP` |
-| **AI / ML & Computer Vision** | `PyTorch`, `Deep Learning`, `Computer Vision`, `OpenCV`, `Physics-Informed Neural Networks (PINN)`, `Generative AI`, `LLM Agents`, `NumPy` |
+| **AI / ML & Computer Vision** | `PyTorch`, `Deep Learning`, `Computer Vision`, `OpenCV`, `Generative AI`, `LLM Agents`, `NumPy`, `Data Science` |
 | **Aerospace & Simulation** | `UAV Flight Mechanics`, `25-State Trim & Drag Polar Solvers`, `3D WebGL Flight Simulation`, `CFD Surface Visualization`, `Telemetry HUDs` |
 | **Web, Data & Tooling** | `Offline-First PWA Architecture`, `Chrome Extensions API`, `Streamlit`, `Tableau`, `Git`, `GitHub Pages CI/CD`, `DBMS`, `Linux` |
 
