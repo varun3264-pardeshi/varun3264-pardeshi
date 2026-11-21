@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,55:111827,100:0284C7&height=230&section=header&text=YASH%20PARDESHI&fontSize=56&fontColor=38BDF8&animation=fadeIn&fontAlignY=36&desc=SWE%20%26%20AI%2FML%20Developer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Space%20%26%20Defence%20Tech&descAlignY=62&descSize=19" width="100%" alt="Yash Pardeshi Banner" />
+<h1>Hi, I'm Yash Pardeshi 👋</h1>
+<h3>SWE & AI/ML Developer  •  Computer Vision (PyTorch, OpenCV)  •  Space & Defence Technology</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash_Pardeshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-pardeshi-84898b37a/)
 [![Everyday Digital Toolkit](https://img.shields.io/badge/Live_App-17_Offline_Tools-EA580C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://varun3264-pardeshi.github.io/offline-digital-tools/)
@@ -29,7 +30,7 @@
 
 ---
 
-## 🚀 Flagship Shipped Systems (2×2 Visual Grid)
+## 🚀 Flagship Shipped Systems (2×2 Grid)
 
 <table>
   <tr>
@@ -176,7 +177,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-Yash_Pardeshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-pardeshi-84898b37a/)
 [![Portfolio Hub](https://img.shields.io/badge/Explore_Live_Toolkit-17_Offline_Tools-EA580C?style=for-the-badge&logo=rocket&logoColor=white)](https://varun3264-pardeshi.github.io/offline-digital-tools/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,50:111827,100:0B0F19&height=110&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
