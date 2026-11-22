@@ -13,7 +13,7 @@
 [![BSERC Intern](https://img.shields.io/badge/3×_Intern-BSERC_Def--Space_&_GenAI-7C3AED?style=flat-square)](https://www.linkedin.com/in/yash-pardeshi-84898b37a/)
 [![SIH 2026](https://img.shields.io/badge/SIH_2026-Top_100_Internal_Qualifier-D97706?style=flat-square)](https://www.linkedin.com/in/yash-pardeshi-84898b37a/)
 [![ISRO BAH 2026](https://img.shields.io/badge/ISRO_BAH_2026-2026H2S06BAH--P36696-10B981?style=flat-square)](https://github.com/varun3264-pardeshi/project-iSRO-)
-[![Certifications](https://img.shields.io/badge/Verified_Certifications-15+-2563EB?style=flat-square)](#-verified-licenses--certifications-15)
+[![Certifications](https://img.shields.io/badge/Verified_Certifications-16+-2563EB?style=flat-square)](#-verified-licenses--certifications-16)
 
 </div>
 
@@ -145,10 +145,11 @@
 
 ---
 
-## 🏅 Verified Licenses & Certifications (15)
+## 🏅 Verified Licenses & Certifications (16)
 
 | Certification / Program | Issuing Organization | Issued | Credential / Verification ID |
 | :--- | :--- | :---: | :--- |
+| **TCS iON Career Edge — AI Foundation** | **TCS iON (Tata Consultancy Services)** | Nov 2026 | `279243-33140621-1016` |
 | **Bharatiya Antariksh Hackathon 2026** | **ISRO (Indian Space Research Org.)** | Sep 2026 | `2026H2S06BAH-P36696` |
 | **Foundations of AI and Machine Learning** | **Microsoft (Coursera)** | Aug 2026 | `SIO2LJL9BIX1` |
 | **Introduction to Generative AI and Agents** | **Microsoft** | Jul 2026 | Verified Badge |
